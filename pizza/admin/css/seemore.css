@@ -1,0 +1,29 @@
+main {
+    justify-content: center;
+}
+
+.orderDetails {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.dataDivs {
+    display: flex;
+    width: 100%;
+    height: 3rem;
+    align-items: center;
+
+}
+
+.orderLabels {
+    width: 50%;
+    margin-right: 5%;
+    text-align: end;
+}
+
+.orderPizzasH2 {
+    text-align: center;
+}
